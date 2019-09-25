@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">scavENGger Hunt</string>
+    <string name="title_activity_in_game">InGameActivity</string>
+</resources>
